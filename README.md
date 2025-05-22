@@ -18,6 +18,14 @@ Excel Certification:  <br/>
 <br />
 <br />
 Power BI Certification:  <br/>
-<img src="https://i.imgur.com/gxxbduD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/TEQMb3t.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+SQL Certification:  <br/>
+<img src="https://i.imgur.com/UKlP7CZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Microsoft Fabric Certification:  <br/>
+<img src="https://i.imgur.com/BHYYQaP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
