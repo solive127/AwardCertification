@@ -14,18 +14,26 @@ Ashland Tenacious Level 2 Award : <br/>
 <br />
 <br />
 Excel Certification:  <br/>
-<img src="https://i.imgur.com/gxxbduD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/gxxbduD.png" height="80%" width="80%" />
 <br />
 <br />
 Power BI Certification:  <br/>
-<img src="https://i.imgur.com/TEQMb3t.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/TEQMb3t.png" height="80%" width="80%" />
 <br />
 <br />
 SQL Certification:  <br/>
-<img src="https://i.imgur.com/UKlP7CZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/UKlP7CZ.png" height="80%" width="80%" />
 <br />
 <br />
 Microsoft Fabric Certification:  <br/>
-<img src="https://i.imgur.com/BHYYQaP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/BHYYQaP.png" height="80%" width="80%" />
+<br />
+<br />
+Yellow Belt:  <br/>
+<img src="https://i.imgur.com/KyHXfKv.png" height="80%" width="80%" />
+<br />
+<br />
+A3:  <br/>
+<img src="https://i.imgur.com/trsd44v.png" height="80%" width="80%" />
 <br />
 <br />
