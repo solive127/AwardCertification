@@ -13,6 +13,10 @@ Ashland Tenacious Level 2 Award : <br/>
 <img src="https://i.imgur.com/zscXhCM.png"/>
 <br />
 <br />
+Python:  <br/>
+<img src="https://i.imgur.com/S68WojI.png" height="80%" width="80%" />
+<br />
+<br />  
 Excel Certification:  <br/>
 <img src="https://i.imgur.com/gxxbduD.png" height="80%" width="80%" />
 <br />
