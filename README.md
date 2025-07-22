@@ -10,7 +10,7 @@ Ashland Award and Certifications
 
 <p align="center">
 Ashland Tenacious Level 2 Award : <br/>
-<img src="https://i.imgur.com/zscXhCM.png"/>
+<img src="https://i.imgur.com/Ek9lrqy.png"/>
 <br />
 <br />
 Python:  <br/>
