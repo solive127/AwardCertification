@@ -22,22 +22,22 @@ Excel Certification:  <br/>
 <br />
 <br />
 Power BI Certification:  <br/>
-<img src="https://i.imgur.com/TEQMb3t.png" height="80%" width="80%" />
+<img src="https://i.imgur.com/EhToiKI.png" height="80%" width="80%" />
 <br />
 <br />
 SQL Certification:  <br/>
-<img src="https://i.imgur.com/UKlP7CZ.png" height="80%" width="80%" />
+<img src="https://i.imgur.com/v7G9xOw.png" height="80%" width="80%" />
 <br />
 <br />
 Microsoft Fabric Certification:  <br/>
-<img src="https://i.imgur.com/BHYYQaP.png" height="80%" width="80%" />
+<img src="https://i.imgur.com/F31A4fQ.png" height="80%" width="80%" />
 <br />
 <br />
 Yellow Belt:  <br/>
-<img src="https://i.imgur.com/KyHXfKv.png" height="80%" width="80%" />
+<img src="https://i.imgur.com/RUqVN9M.png" height="80%" width="80%" />
 <br />
 <br />
 A3:  <br/>
-<img src="https://i.imgur.com/trsd44v.png" height="80%" width="80%" />
+<img src="https://i.imgur.com/fNRpdfg.png" height="80%" width="80%" />
 <br />
 <br />
