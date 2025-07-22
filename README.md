@@ -18,7 +18,7 @@ Python:  <br/>
 <br />
 <br />  
 Excel Certification:  <br/>
-<img src="https://i.imgur.com/gxxbduD.png" height="80%" width="80%" />
+<img src="https://i.imgur.com/CPhPgcv.png" height="80%" width="80%" />
 <br />
 <br />
 Power BI Certification:  <br/>
