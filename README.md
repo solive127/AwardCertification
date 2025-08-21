@@ -2,9 +2,9 @@
 
 <h1>Awards and Certifications</h1>
 
+
 <h2>Description</h2>
 Ashland Award and Certifications
-
 
 
 
@@ -13,6 +13,11 @@ Ashland Tenacious Level 2 Award : <br/>
 <img src="https://i.imgur.com/Ek9lrqy.png"/>
 <br />
 <br />
+<p align="center">
+University of Tennessee at Knoxville : <br/>
+<img src="https://i.imgur.com/RSy8x8w.gif"/>
+<br />
+  
 Python:  <br/>
 <img src="https://i.imgur.com/S68WojI.png" height="80%" width="80%" />
 <br />
